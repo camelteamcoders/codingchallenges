@@ -1,2 +1,2 @@
-# codingchallenges
-A place to store our coding challenges
+# countAndSay
+Implementation of the count and say challenge
